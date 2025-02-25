@@ -70,5 +70,5 @@ your-chat-app/
 
 <h2>License</h2>
 <p>
-    This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
+    This project is licensed under the MIT License. Feel free to use, modify, and distribute it
 </p>
